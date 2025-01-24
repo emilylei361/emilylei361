@@ -1,9 +1,9 @@
-## Hi there 👋
+## ✮ ⋆ ́｡𖦹 ⋆｡°✩ welcome to my page! /ᐠ˵- ⩊ -˵マ ⋆｡𖦹°⭒˚｡ ⋆｡°⋆
 
+₊˚⊹ ᰔ GIT major at ASU w/ focus area in full stack web dev 
+⊹₊⟡⋆ᰔ Trad/digital art, 
+ 
 <!--
-**emilylei361/emilylei361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
